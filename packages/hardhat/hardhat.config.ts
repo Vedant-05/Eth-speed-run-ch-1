@@ -55,7 +55,7 @@ const config: HardhatUserConfig = {
       accounts: [deployerPrivateKey],
     },
     sepolia: {
-      url: `https://eth-sepolia.g.alchemy.com/v2/LYLJUsGjwYOBM8T7Eul7H3ZKjfWpSHDv`,
+      url: ``,
       accounts: [deployerPrivateKey],
     },
     arbitrum: {
